@@ -91,6 +91,7 @@ Follow these steps to create and base 64 encode the certificate:
    You'll have to answer several questions when prompted by the OpenSSL tool.  These values will be included in the certificate.  This tutorial uses a self-signed certificate, therefore the values are irrelevant.  The following literal values are fine.
      1. For **Country Name**, enter a two letter code.
      1. For **State or Province Name**, enter WA.
+     1. For **Locality Name**, enter Redmond.
      1. For **Organization Name**, enter Contoso.  For Organizational Unit Name enter billing.
      1. For **Common Name**, enter Contoso.
      1. For **Email Address**, enter billing@contoso.com.
